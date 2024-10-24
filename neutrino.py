@@ -14,23 +14,23 @@ with tab7:
     st.image("7.jpg", use_column_width=True)
 
 with tab1:
-    st.header("테슬라코일")
+    st.header("루벤스튜브")
     st.image("5.jpg",  use_column_width=True)
 
 with tab2:
-    st.header("루벤스튜브")
+    st.header("라이덴병")
     st.image("4.jpg", use_column_width=True)
 
 with tab3:
-    st.header("라이덴병")
+    st.header("레이저를 피하라!")
     st.image("3.jpg",  use_column_width=True)
 
 with tab4:
-    st.header("레이저를 피하라!")
+    st.header("히히 구슬 발사")
     st.image("2.jpg", use_column_width=True)
 with tab5:
-    st.header("히히 구슬 발사!")
+    st.header("스트로브효과")
     st.image("6.jpg", use_column_width=True)
 with tab6:
-    st.header("스트로브효과")
+    st.header("테슬라코일")
     st.image("1.jpg", use_column_width=True)
